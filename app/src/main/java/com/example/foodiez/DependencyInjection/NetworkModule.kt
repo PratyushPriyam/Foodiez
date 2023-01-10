@@ -1,11 +1,10 @@
 package com.example.foodiez.DependencyInjection
 
-import com.example.foodiez.Constants.Companion.BASE_URL
+import com.example.foodiez.util.Constants.Companion.BASE_URL
 import com.example.foodiez.FoodRecipesAPI
 import dagger.Module
 import dagger.Provides
 import dagger.hilt.InstallIn
-import dagger.hilt.android.internal.managers.ApplicationComponentManager
 import dagger.hilt.components.SingletonComponent
 import okhttp3.OkHttpClient
 import retrofit2.Retrofit
