@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/praty/.gradle/caches/transforms-3/4fcb16e46361c13c98fd58f09316bd50/transformed/shimmer-recyclerview-0.4.1/res/layout/recyclerview_shimmer_viewholder_layout.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/praty/AndroidStudioProjects/Foodiez/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/praty/AndroidStudioProjects/Foodiez/app/src/main/res/layout/fragment_favourites.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/praty/AndroidStudioProjects/Foodiez/app/src/main/res/layout/fragment_food_joke.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/praty/AndroidStudioProjects/Foodiez/app/src/main/res/layout/fragment_recepies.xml" value="0.2" />
+        <entry key="..\:/Users/praty/AndroidStudioProjects/Foodiez/app/src/main/res/layout/recycler_view_recipe_row.xml" value="0.3896604938271605" />
+        <entry key="..\:/Users/praty/AndroidStudioProjects/Foodiez/app/src/main/res/layout/shimmer_recycler_view_layout.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/praty/AndroidStudioProjects/Foodiez/app/src/main/res/menu/bottom_nav_menu.xml" value="0.23229166666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
