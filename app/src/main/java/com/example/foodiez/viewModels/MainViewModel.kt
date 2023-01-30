@@ -1,4 +1,4 @@
-package com.example.foodiez
+package com.example.foodiez.viewModels
 
 import android.app.Application
 import android.content.Context
@@ -7,14 +7,13 @@ import android.net.NetworkCapabilities
 import androidx.lifecycle.AndroidViewModel
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.viewModelScope
+import com.example.foodiez.Repository
 import com.example.foodiez.model.FoodRecipe
 import com.example.foodiez.util.NetworkResult
 import dagger.hilt.android.lifecycle.HiltViewModel
-import dagger.hilt.android.qualifiers.ApplicationContext
 import kotlinx.coroutines.launch
 import retrofit2.Response
 import java.lang.Exception
-import java.time.temporal.TemporalQueries
 import javax.inject.Inject
 
 @HiltViewModel
